@@ -5,6 +5,7 @@ I'm just a programmer trying to make a home for myself on the WWW.
 Find me elsewhere:
 
 - 🌎 [**jakelazaroff.com**](https://jakelazaroff.com)
+- 🏞️ [Bluesky](https://bsky.app/profile/jakelazaroff.com)
 - 🐘 [**Mastodon**](https://mastodon.social/jakelazaroff)
 
 Some things I've made:
