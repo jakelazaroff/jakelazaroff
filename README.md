@@ -17,5 +17,5 @@ Find me elsewhere:
 
 - 🌎 [**jakelazaroff.com**](https://jakelazaroff.com)
 - 🦋 [**Bluesky**](https://bsky.app/profile/jakelazaroff.com)
-- 🐘 [**Mastodon**](https://mastodon.social/jakelazaroff)
+- 🐘 [**Mastodon**](https://mastodon.social/@jakelazaroff)
 - 🐥 [**Twitter**](https://twitter.com/jlazaroff)
